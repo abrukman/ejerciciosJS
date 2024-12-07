@@ -1,0 +1,1 @@
+console.log('ariel', 'brukman', 'comision 2434', 'tocar la trompeta', 'ir a la cancha');
